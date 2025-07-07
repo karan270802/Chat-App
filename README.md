@@ -1,6 +1,6 @@
 # 💬 Chat App
 
-A **real-time chat application** built with **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. This app allows multiple users to join chat rooms and send messages instantly with seamless two-way communication. The frontend is developed using **HTML, CSS, and JavaScript** to provide a responsive and interactive user experience.
+A **real-time chat application** built with **Node.js**, **Express**, **Socket.IO**, and **MongoDB**. This app allows multiple users to join chat rooms and send messages instantly with seamless two-way communication. The frontend is developed using **ReactJs, Tailwind CSS, and JavaScript** to provide a responsive and interactive user experience.
 
 ---
 
