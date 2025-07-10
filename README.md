@@ -27,22 +27,17 @@ A **real-time chat application** built with **Node.js**, **Express**, **Socket.I
 
 ### 🔹 Landing Page
 > Replace the image path with your own screenshot  
-![Screenshot](/screenshots/landing-page.png)
+![](/img/2.png)
 
 ---
 
 ### 🔹 Join Chat Room
-![Screenshot](/screenshots/join-chat-room.png)
+![](/img/3.png)
 
 ---
 
 ### 🔹 Chat Interface
-![Screenshot](/screenshots/chat-interface.png)
-
----
-
-### 🔹 Real-Time Messaging
-![Screenshot](/screenshots/message-in-action.gif)
+![](/img/1.png)
 
 ---
 
